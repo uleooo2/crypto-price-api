@@ -1,1 +1,17 @@
-{"key": "value"}
+{
+    "activities": [
+        {
+            "name": "Binance Launchpool - Nillion",
+            "link": "https://launchpad.binance.com/en?ref=10196687",
+            "startDate": "2025-03-21",
+            "endDate": "2025-03-24",
+            "platform": "Binance"
+        }
+    ],
+    "referral": [
+        {
+            "name": "Binance",
+            "link": "https://accounts.binance.com/register?ref=10196687"
+        }
+    ]
+}
