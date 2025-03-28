@@ -1,19 +1,20 @@
 {
     "activities": [
         {
+            "name": "Introducing $GUN on Binance Launchpool! ",
+            "name_zh": "币安Launchpool上线GUNZ! ",
+            "link": "https://launchpad.binance.com/en?ref=10196687",
+            "startDate": "2025-03-27",
+            "endDate": "2025-03-31",
+            "platform": "Binance"
+        },
+        {
             "name": "Bybit launchpool for B3TR",
             "name_zh": "Bybit launchpool for B3TR",
             "link": "https://www.bybit.com/en/trade/spot/launchpool?code=MNDE6EY",
             "startDate": "2025-03-24",
             "endDate": "2025-04-03",
             "platform": "Bybit"
-        },
-        {
-            "name": "Bitget launch Nillion (NIL) pre-market trading on Mar 21, 12:00 PM (UTC).",
-            "link": "https://www.bitget.com/support/articles/12560603824479",
-            "startDate": "2025-03-21",
-            "endDate": "2025-03-24",
-            "platform": "Bitget"
         }
     ],
     "referral": [
